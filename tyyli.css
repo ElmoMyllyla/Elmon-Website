@@ -1,0 +1,18 @@
+body{background-color}
+p {color: red;}
+.Otsikko_loota {width:200px;
+            height:150px;
+            background-color:black;
+            margin:10px;
+            color:maroon;
+            text-align:center
+        }
+        .Harrastukset {
+            Height:250px;
+            width:200px;
+            background-color:black;
+            color:whitesmoke;        
+            margin:10px;
+            padding-right:40px;
+            
+        }
