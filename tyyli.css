@@ -1,7 +1,9 @@
-body{background-color}
-p {color: red;}
+body{background-color:pink;
+font-family:"Comic Sans MS";
+font-size:13px;}
+p {color:darkblue;}
 .Otsikko_loota {width:200px;
-            height:150px;
+            height:100px;
             background-color:black;
             margin:10px;
             color:maroon;
@@ -14,5 +16,58 @@ p {color: red;}
             color:whitesmoke;        
             margin:10px;
             padding-right:40px;
-            
+            border-color:Yellow;
+            border-width:10px;
+            border-style:solid;
+        }
+        .harrastus 
+        {
+            color:darkblue
+        }
+       .lempipeli{
+        color:pink
+       }
+        .Lempipeliloota{
+            Height:200px;
+            width:200px;
+            background-color:chocolate;
+            color:gold;
+            margin:10px;
+            padding-right:40px;
+            border-color:indigo;
+            border-width:10px;
+            border-style:solid;
+            top:175px;
+            right:1300px;
+            position: absolute;
+        }
+        .warthunderi{
+            Height:250px;
+            width:200px;
+            background-color:black;
+            color:whitesmoke;        
+            margin:10px;
+            padding-right:40px;
+            border-color:Yellow;
+            border-width:10px;
+            border-style:solid;
+        }
+        .redead{  Height:250px;
+            width:200px;
+            background-color:black;
+            color:whitesmoke;        
+            margin:10px;
+            padding-right:40px;
+            border-color:Yellow;
+            border-width:10px;
+            border-style:solid;
+            top:405px;
+            right:1300px;
+            position:absolute;
+            color:darkblue
+        }
+        .kisu{ 
+            top:175px;
+            right:790px;        
+            position:absolute;
         }
