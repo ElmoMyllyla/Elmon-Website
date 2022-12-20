@@ -8,6 +8,9 @@ p {color:darkblue;}
             margin:10px;
             color:maroon;
             text-align:center
+            border-color:Yellow;
+            border-width:10px;
+            border-style:solid;
         }
         .Harrastukset {
             Height:250px;
